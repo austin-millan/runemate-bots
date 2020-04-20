@@ -1,5 +1,5 @@
 <manifest>
-  <main-class>Bots.WC.AIO.Main</main-class>
+  <main-class>com.Matsumotorise.bots.WC.AIO.Main</main-class>
   <name>State-based template</name>
   <description>Bots.Template</description>
   <version>.01</version>

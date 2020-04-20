@@ -1,5 +1,5 @@
 <manifest>
-  <main-class>Bots.Template.oop.Main</main-class>
+  <main-class>com.Matsumotorise.bots.Template.oop.Main</main-class>
   <name>OOP tempalte</name>
   <description>OOP template</description>
   <version>.01</version>

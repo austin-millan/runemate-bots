@@ -1,5 +1,5 @@
 <manifest>
-  <main-class>Bots.WC.AIO.Main</main-class>
+  <main-class>com.Matsumotorise.bots.WC.AIO.Main</main-class>
   <name>WC AIO</name>
   <description>Testing</description>
   <version>.01</version>

@@ -1,5 +1,5 @@
 <manifest>
-  <main-class>Bots.Fisher.AIO.Main</main-class>
+  <main-class>com.Matsumotorise.bots.Fisher.AIO.Main</main-class>
   <name>Fisher AIO</name>
   <description>Testing</description>
   <version>.01</version>
