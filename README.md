@@ -10,13 +10,6 @@ Note that RuneMate workspaces aren't configured to run your code directly.
 They're configured to launch the dependency [`RuneMate.jar`](lib/RuneMate.jar) in development mode
 which will then look for the bots in a specific directory on your computer. 
 
-This project is based on a guide found on the RuneMate forum, [here](https://www.runemate.com/community/threads/the-coding-chronicles-chapter-two-hello-world.6738/).
-
-The bots from the following projects are included:
-- [passive](https://github.com/PassiveModding/RuneMate])
-- [Fabreze](https://github.com/KristofPusztai/Runemate-Bots)
-- [Matsumotorise](https://github.com/Matsumotorise/Runemate-Scripts)
-
 ## Setup
 
 ### Ubuntu
@@ -77,3 +70,11 @@ chmod +x /usr/local/bin/oldschool
 ### Windows
 
 (TODO)
+
+## Credits
+
+The bots/code/resources from the following projects are included:
+- [passive](https://github.com/PassiveModding/RuneMate])
+- [Fabreze](https://github.com/KristofPusztai/Runemate-Bots)
+- [Matsumotorise](https://github.com/Matsumotorise/Runemate-Scripts)
+- [DerkSchooltink](https://github.com/DerkSchooltink/Varbit_varp) (varbit utilities)
