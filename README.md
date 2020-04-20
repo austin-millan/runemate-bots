@@ -15,6 +15,7 @@ This project is based on a guide found on the RuneMate forum, [here](https://www
 The bots from the following projects are included:
 - [passive](https://github.com/PassiveModding/RuneMate])
 - [Fabreze](https://github.com/KristofPusztai/Runemate-Bots)
+- [Matsumotorise](https://github.com/Matsumotorise/Runemate-Scripts)
 
 ## Setup
 
