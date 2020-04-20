@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Cannoner.CannonMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Cannoner.CannonMain</main-class>
     <name>Fabreze Cannoner[BETA]</name>
     <tag-line>Who knew loading cannons would be such a breeze</tag-line><!--Max of 50 chars-->
     <description>Deploys and loads dwarf cannon for fast ez xp</description><!--Max of 110 chars-->

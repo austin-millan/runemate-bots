@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Blast_Furnace.BlastFurnaceMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Blast_Furnace.BlastFurnaceMain</main-class>
     <name>Fabreze Blast Furnace</name>
     <tag-line> Who knew Blast Furnace would be such a breeze </tag-line><!--Max of 50 chars-->
     <description>Plays Blast Furnace for Smithing xp</description><!--Max of 110 chars-->

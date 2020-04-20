@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Minnow_Fisher.MinnowFisherMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Minnow_Fisher.MinnowFisherMain</main-class>
     <name>Fabreze Minnow Fisher</name>
     <tag-line> Who knew Minnow Fishing would be such a breeze </tag-line><!--Max of 50 chars-->
     <description> Fishes Minnows to trade in later for Sharks</description><!--Max of 110 chars-->

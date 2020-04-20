@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_WebBuilderTool.WebToolMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_WebBuilderTool.WebToolMain</main-class>
     <name>Fabreze Web Builder Tool</name>
     <tag-line>Who knew building Web paths would be such a breeze</tag-line><!--Max of 50 chars-->
     <description> Plays the Motherlode Miner </description><!--Max of 110 chars-->

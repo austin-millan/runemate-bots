@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Motherlode_Miner.MotherlodeMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Motherlode_Miner.MotherlodeMain</main-class>
     <name>Fabreze Motherlode Miner Lite</name>
     <tag-line>Who knew Motherlode Mining would be such a breeze</tag-line><!--Max of 50 chars-->
     <description> Plays the Motherlode Miner </description><!--Max of 110 chars-->

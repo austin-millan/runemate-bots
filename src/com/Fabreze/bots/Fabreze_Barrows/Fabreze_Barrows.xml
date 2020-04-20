@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Barrows.BarrowsMain</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Barrows.BarrowsMain</main-class>
     <name>Fabreze Barrows[BETA]</name>
     <tag-line>Who knew Barrows Brothers would be such a breeze</tag-line><!--Max of 50 chars-->
     <description>Sit Back, Relax, and Enjoy the Fight</description><!--Max of 110 chars-->

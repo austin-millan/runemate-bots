@@ -1,5 +1,5 @@
 <manifest>
-    <main-class>Fabreze.bots.Fabreze_Agility.Fabreze_Agility_Main</main-class>
+    <main-class>com.Fabreze.bots.Fabreze_Agility.Fabreze_Agility_Main</main-class>
     <name>Fabreze Agility</name>
     <tag-line>Who knew agility would be such a breeze</tag-line><!--Max of 50 chars-->
     <description>Grinds out agility</description><!--Max of 110 chars-->

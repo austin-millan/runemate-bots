@@ -8,7 +8,7 @@
         <game>OSRS</game>
     </compatibility>
     <categories>
-        <category>Tutorial</category>
+        <category>OTHER</category>
     </categories>
     <!--Required to publish on the bot store-->
     <internal-id>notsure</internal-id>

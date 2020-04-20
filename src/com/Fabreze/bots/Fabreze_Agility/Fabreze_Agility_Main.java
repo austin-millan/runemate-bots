@@ -1,6 +1,6 @@
 package com.Fabreze.bots.Fabreze_Agility;
 
-import Fabreze.bots.Fabreze_Agility.GUI.Fabreze_AgilityController;
+import com.Fabreze.bots.Fabreze_Agility.GUI.Fabreze_AgilityController;
 import com.runemate.game.api.client.ClientUI;
 import com.runemate.game.api.client.embeddable.EmbeddableUI;
 import com.runemate.game.api.hybrid.Environment;
