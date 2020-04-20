@@ -12,6 +12,10 @@ which will then look for the bots in a specific directory on your computer.
 
 This project is based on a guide found on the RuneMate forum, [here](https://www.runemate.com/community/threads/the-coding-chronicles-chapter-two-hello-world.6738/).
 
+The bots from the following projects are included:
+- [passive](https://github.com/PassiveModding/RuneMate])
+- [Fabreze](https://github.com/KristofPusztai/Runemate-Bots)
+
 ## Setup
 
 ### Ubuntu
