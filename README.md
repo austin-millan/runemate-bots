@@ -1,8 +1,8 @@
-# runemate-bot-template
+# runemate-bots
 
 ## About
 
-The purpose for this repository is to simplify/bootstrap [RuneMate](https://www.runemate.com/) bot projects on Linux.
+This repo contains a collection of [RuneMate](https://www.runemate.com/) bots.
 
 This development workspace is for IntelliJ IDEA workspaces specifically.
 
@@ -48,16 +48,6 @@ It's configured to launch the `RuneMate.jar` file with specific command-line arg
 
 To save, click "Create configuration" at the top.
 
-Finally, to follow both author convention,
-you'll want to go through the project and rename/correct usages of "runemateuser" to your own RuneMate account username.
-The only locations should be:
-- [`src.com.runemateuser`](src/com/runemateuser/)
-  - Rename this file to your username
-- [`src.com.runemateuser.bots.tutorial_bot.TutorialBot`](src/com/runemateuser/bots/tutorial_bot/TutorialBot.java)
-  - Fix the import to use your username
-- [`src.com.runemateuser.bots.tutorial_bot.TutorialBot.manifest.xml`](src/com/runemateuser/bots/tutorial_bot/TutorialBot.manifest.xml)
-  - Correct `<main-class>` tag to use the new path.
-
 #### Configure RuneMate
 
 Launch RuneMate by navigating to Run -> Run 'Boot, 
@@ -67,7 +57,7 @@ Once you have RuneMate launched, you'll need to ensure it can actually find the 
 
 #### Writing Bots
 
-All bots should go under: [`src/com/runemateuser/bots/`](src/com/runemateuser/bots/) to be picked up by RuneMate.
+All bots should go under: [`src/com/<your_user>/bots/`](src/com/) to be picked up by RuneMate.
 
 #### Setup OldSchool RuneScape:
 
